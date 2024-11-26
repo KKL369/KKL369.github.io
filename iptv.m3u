@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1,广东新闻
 http://192.168.3.1:8888/udp/239.77.0.4:5146
-#EXTINF:-1,广东公共
-http://192.168.3.1:8888/udp/239.77.0.5:5146
 #EXTINF:-1,大湾区卫视
 http://192.168.3.1:8888/udp/239.77.0.9:5146
 #EXTINF:-1,广东影视
