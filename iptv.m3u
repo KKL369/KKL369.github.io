@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",1
-http://192.168.3.1:8888/udp/239.77.0.224:5146
+http://192.168.3.1:8888/udp/239.77.1.2:5146
 #EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",2
-http://192.168.3.1:8888/udp/239.77.0.227:5146
+http://192.168.3.1:8888/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",3
 http://192.168.3.1:8888/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",4
@@ -100,11 +100,11 @@ http://192.168.3.1:8888/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东新闻
 http://192.168.3.1:8888/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",大湾区卫视
-http://192.168.3.1:8888/udp/23977.0.214:5146
+http://192.168.3.1:8888/udp/239.77.0.214:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东影视
 http://192.168.3.1:8888/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东少儿
-http://192.168.3.1:8888/udp/239.77.0.12:5146
+http://192.168.3.1:8888/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",嘉佳卡通
 http://192.168.3.1:8888/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",茶频道
@@ -117,14 +117,30 @@ http://192.168.3.1:8888/udp/239.77.0.22:5146
 http://192.168.3.1:8888/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东移动
 http://192.168.3.1:8888/udp/239.77.0.20:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东卫视超高清
+http://192.168.3.1:8888/udp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东卫视4K
+http://192.168.3.1:8888/udp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",河南卫视
 http://192.168.3.1:8888/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",甘肃卫视
 http://192.168.3.1:8888/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",新闻综合
 http://192.168.3.1:8888/udp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",揭阳综合
+http://192.168.3.1:8888/udp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",揭阳生活
+http://192.168.3.1:8888/udp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",云浮综合
+http://192.168.3.1:8888/udp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",云浮文旅
+http://192.168.3.1:8888/udp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",佛山南海
+http://192.168.3.1:8888/udp/239.77.0.236:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN
 http://192.168.3.1:8888/udp/239.77.0.199:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN2
+http://192.168.3.1:8888/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC电影
 http://192.168.3.1:8888/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV2
