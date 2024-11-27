@@ -307,3 +307,5 @@ http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$LR•IPV4『线路52』
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="港·澳·台",翡翠台
 http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路54』
+#EXTINF:-1 tvg-id="55" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="港·澳·台",翡翠台
+https://pi.0472.org/tv/fct.php?auth=2309081833•IPV4『线路55』
