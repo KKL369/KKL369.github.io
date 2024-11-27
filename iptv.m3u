@@ -1,112 +1,112 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.152:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.154:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.155:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.156:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.157:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.158:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.161:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.162:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.163:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.164:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.165:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.174:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.175:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.177:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.178:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.180:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.181:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.184:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.185:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.186:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.187:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.189:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.190:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.191:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.192:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.193:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.194:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.195:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.196:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.197:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.199:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.203:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.204:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.205:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.208:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.210:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.211:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.213:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.214:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.216:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.218:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.219:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试
-http://192.168.3.1:8888/udp/239.77.0.223:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",1
+http://192.168.3.1:8888/udp/239.77.0.224:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",2
+http://192.168.3.1:8888/udp/239.77.0.227:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",3
+http://192.168.3.1:8888/udp/239.77.0.228:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",4
+http://192.168.3.1:8888/udp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",5
+http://192.168.3.1:8888/udp/239.77.0.231:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",6
+http://192.168.3.1:8888/udp/239.77.0.234:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",7
+http://192.168.3.1:8888/udp/239.77.0.235:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",8
+http://192.168.3.1:8888/udp/239.77.0.236:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",9
+http://192.168.3.1:8888/udp/239.77.0.237:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",10
+http://192.168.3.1:8888/udp/239.77.0.238:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",11
+http://192.168.3.1:8888/udp/239.77.0.239:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",12
+http://192.168.3.1:8888/udp/239.77.0.240:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",13
+http://192.168.3.1:8888/udp/239.77.0.241:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",14
+http://192.168.3.1:8888/udp/239.77.0.242:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",15
+http://192.168.3.1:8888/udp/239.77.0.243:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",16
+http://192.168.3.1:8888/udp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",17
+http://192.168.3.1:8888/udp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",18
+http://192.168.3.1:8888/udp/239.77.0.246:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",19
+http://192.168.3.1:8888/udp/239.77.0.247:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",20
+http://192.168.3.1:8888/udp/239.77.0.248:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",21
+http://192.168.3.1:8888/udp/239.77.0.249:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",22
+http://192.168.3.1:8888/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",23
+http://192.168.3.1:8888/udp/239.77.0.251:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",24
+http://192.168.3.1:8888/udp/239.77.0.252:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",25
+http://192.168.3.1:8888/udp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",26
+http://192.168.3.1:8888/udp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",27
+http://192.168.3.1:8888/udp/239.77.0.255:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",28
+http://192.168.3.1:8888/udp/239.77.0.256:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",29
+http://192.168.3.1:8888/udp/239.77.0.257:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",30
+http://192.168.3.1:8888/udp/239.77.0.258:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",31
+http://192.168.3.1:8888/udp/239.77.0.259:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",32
+http://192.168.3.1:8888/udp/239.77.0.260:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",33
+http://192.168.3.1:8888/udp/239.77.0.261:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",34
+http://192.168.3.1:8888/udp/239.77.0.262:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",35
+http://192.168.3.1:8888/udp/239.77.0.263:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",36
+http://192.168.3.1:8888/udp/239.77.0.264:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",37
+http://192.168.3.1:8888/udp/239.77.0.265:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",38
+http://192.168.3.1:8888/udp/239.77.0.266:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",39
+http://192.168.3.1:8888/udp/239.77.0.267:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",40
+http://192.168.3.1:8888/udp/239.77.0.268:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",41
+http://192.168.3.1:8888/udp/239.77.0.269:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",42
+http://192.168.3.1:8888/udp/239.77.0.270:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",43
+http://192.168.3.1:8888/udp/239.77.0.271:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",44
+http://192.168.3.1:8888/udp/239.77.0.272:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",45
+http://192.168.3.1:8888/udp/239.77.0.273:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",46
+http://192.168.3.1:8888/udp/239.77.0.274:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",47
+http://192.168.3.1:8888/udp/239.77.0.275:5146
+#EXTINF:-1 tvg-id="1" #EXTINF:-1 tvg-id="1" group-title="测试",48
+http://192.168.3.1:8888/udp/239.77.0.276:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东珠江
 http://192.168.3.1:8888/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东新闻
-http://192.168.3.1:8888/udp/239.77.0.4:5146
+http://192.168.3.1:8888/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",大湾区卫视
-http://192.168.3.1:8888/udp/23977.0.9:5146
+http://192.168.3.1:8888/udp/23977.0.214:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东影视
-http://192.168.3.1:8888/udp/239.77.0.11:5146
+http://192.168.3.1:8888/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东少儿
 http://192.168.3.1:8888/udp/239.77.0.12:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东嘉佳卡通
-http://192.168.3.1:8888/udp/239.77.0.13:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",嘉佳卡通
+http://192.168.3.1:8888/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",茶频道
 http://192.168.3.1:8888/udp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",求索纪录
@@ -114,23 +114,31 @@ http://192.168.3.1:8888/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",南方购物
 http://192.168.3.1:8888/udp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",现代教育
-http://192.168.3.1:8888/udp/239.77.0.18:5146
+http://192.168.3.1:8888/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东移动
 http://192.168.3.1:8888/udp/239.77.0.20:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",河南卫视
 http://192.168.3.1:8888/udp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",甘肃卫视
+http://192.168.3.1:8888/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",新闻综合
 http://192.168.3.1:8888/udp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN
+http://192.168.3.1:8888/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC电影
 http://192.168.3.1:8888/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV2
 http://192.168.3.1:8888/udp/239.77.0.28:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV早期教育
+http://192.168.3.1:8888/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-11戏曲
 http://192.168.3.1:8888/udp/239.77.0.40:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-13新闻
-http://192.168.3.1:8888/udp/239.77.0.42:5146
+http://192.168.3.1:8888/udp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-15音乐
 http://192.168.3.1:8888/udp/239.77.0.44:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV16
+http://192.168.3.1:8888/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-NEWS
 http://192.168.3.1:8888/udp/239.77.0.45:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",陕西卫视
@@ -152,7 +160,7 @@ http://192.168.3.1:8888/udp/239.77.0.77:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",卡酷动画
 http://192.168.3.1:8888/udp/239.77.0.79:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",金鹰卡通
-http://192.168.3.1:8888/udp/239.77.0.80:5146
+http://192.168.3.1:8888/udp/239.77.0.164:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",炫动卡通
 http://192.168.3.1:8888/udp/239.77.0.81:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",山东教育
@@ -169,6 +177,8 @@ http://192.168.3.1:8888/udp/239.77.0.140:5146
 http://192.168.3.1:8888/udp/239.77.0.141:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",快乐垂钓
 http://192.168.3.1:8888/udp/239.77.0.146:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",珠海
+http://192.168.3.1:8888/udp/239.77.0.155:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",优漫卡通
 http://192.168.3.1:8888/udp/239.77.0.222:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",吉林延边卫视
@@ -197,6 +207,8 @@ http://192.168.3.1:8888/udp/239.77.0.134:5146
 http://192.168.3.1:8888/udp/239.77.0.136:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-14高清
 http://192.168.3.1:8888/udp/239.77.0.133:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV4K
+http://192.168.3.1:8888/udp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV5＋高清
 http://192.168.3.1:8888/udp/239.77.0.176:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-17农业高清
@@ -259,6 +271,8 @@ http://192.168.3.1:8888/udp/239.77.0.167:5146
 http://192.168.3.1:8888/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-1超清
 http://192.168.3.1:8888/udp/239.77.0.129:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",文化生活
+http://192.168.3.1:8888/udp/239.77.0.187:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV谍战剧场
 http://192.168.3.1:8888/udp/239.77.0.99:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV相声小品
