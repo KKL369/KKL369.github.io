@@ -1,309 +1,215 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.1:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.2:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.3:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.4:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.6:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.7:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.8:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.9:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.10:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.11:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.12:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.13:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.14:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.15:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.16:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.17:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.18:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.19:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.20:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.21:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.22:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.23:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.24:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.25:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.26:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.27:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.28:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.29:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.30:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.31:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.32:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.33:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.34:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.35:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.36:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.37:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.38:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.39:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.40:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.41:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.42:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.43:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.44:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.45:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.46:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.47:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.48:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.49:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.50:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.51:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.52:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.53:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.54:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.55:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.56:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.57:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.58:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.59:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.60:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.61:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.62:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.63:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.64:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.65:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.66:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.67:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.68:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.69:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.70:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.71:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.73:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.74:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.75:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.76:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.77:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.78:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.79:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.80:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.81:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.82:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.83:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.84:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.85:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.86:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.87:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.88:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.89:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.90:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.91:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.92:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.93:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.94:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.95:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.96:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.97:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.98:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.100:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.102:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.103:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.104:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.105:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.106:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.107:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.108:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.109:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.110:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.111:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.112:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.113:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.114:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.115:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.116:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.117:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.118:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.119:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.120:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.121:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.122:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.123:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.124:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.125:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.126:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.127:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.128:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.129:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.130:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.132:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.132:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.133:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.134:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.135:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.136:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.137:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.138:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.139:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.140:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.141:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.142:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.143:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.144:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.145:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.146:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.147:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.148:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.149:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.150:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.151:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.152:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
-http://192.168.3.1:8888/rtp/239.253.43.153:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
 http://192.168.3.1:8888/rtp/239.253.43.154:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.155:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.156:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.157:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.158:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.159:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.160:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.161:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.162:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.163:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.164:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.165:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.166:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.167:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.168:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.169:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.170:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.171:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.172:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.173:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.174:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.175:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.176:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.177:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.178:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.179:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.180:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.181:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.182:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.183:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.184:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.185:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.186:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.187:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.188:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.189:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.190:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.191:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.192:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.193:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.194:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.195:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.196:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.197:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.198:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.199:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.200:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.201:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.202:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.203:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.204:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.205:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.206:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.207:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.208:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.209:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.210:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.211:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.212:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.214:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.215:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.216:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.217:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.218:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.219:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.220:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.221:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.222:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.223:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.224:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.225:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.226:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.227:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.228:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.229:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.230:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.231:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.232:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.233:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.234:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.235:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.236:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.237:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.238:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.239:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.240:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.241:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.242:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.243:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.244:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.245:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.246:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.247:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.248:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.249:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.250:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.251:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.252:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.253:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.254:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.255:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.256:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.257:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.258:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.259:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.260:5146
