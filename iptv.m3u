@@ -1,0 +1,1124 @@
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室101
+http://192.168.3.1:8888/rtp/239.253.43.217:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室102
+http://192.168.3.1:8888/rtp/239.253.43.153:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室103
+http://192.168.3.1:8888/rtp/239.253.43.154:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室104
+http://192.168.3.1:8888/rtp/239.253.43.155:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室105
+http://192.168.3.1:8888/rtp/239.253.43.156:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室106
+http://192.168.3.1:8888/rtp/239.253.43.157:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室107
+http://192.168.3.1:8888/rtp/239.253.43.158:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室108
+http://192.168.3.1:8888/rtp/239.253.43.160:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室109
+http://192.168.3.1:8888/rtp/239.253.43.161:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室110
+http://192.168.3.1:8888/rtp/239.253.43.162:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室111
+http://192.168.3.1:8888/rtp/239.253.43.163:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室201
+http://192.168.3.1:8888/rtp/239.253.43.82:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室202
+http://192.168.3.1:8888/rtp/239.253.43.83:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室203
+http://192.168.3.1:8888/rtp/239.253.43.84:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室204
+http://192.168.3.1:8888/rtp/239.253.43.85:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室205
+http://192.168.3.1:8888/rtp/239.253.43.86:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室206
+http://192.168.3.1:8888/rtp/239.253.43.87:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室207
+http://192.168.3.1:8888/rtp/239.253.43.88:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室208
+http://192.168.3.1:8888/rtp/239.253.43.244:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室209
+http://192.168.3.1:8888/rtp/239.253.43.245:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室210
+http://192.168.3.1:8888/rtp/239.253.43.246:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",直播室211
+http://192.168.3.1:8888/rtp/239.253.43.247:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",全国党员干部现代远程教育专用频道
+http://192.168.3.1:8888/rtp/236.1.2.145:5140
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",测试频道
+http://192.168.3.1:8888/rtp/236.1.1.25:5154
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东卫视
+http://192.168.3.1:8888/rtp/239.77.0.2:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东珠江
+http://192.168.3.1:8888/rtp/239.77.0.3:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东新闻
+http://192.168.3.1:8888/rtp/239.77.0.4:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东公共
+http://192.168.3.1:8888/rtp/239.77.0.5:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东体育
+http://192.168.3.1:8888/rtp/239.77.0.6:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东国际
+http://192.168.3.1:8888/rtp/239.77.0.7:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东经济科教
+http://192.168.3.1:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东南方卫视
+http://192.168.3.1:8888/rtp/239.77.0.9:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东影视
+http://192.168.3.1:8888/rtp/239.77.0.10:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东少儿
+http://192.168.3.1:8888/rtp/239.77.0.11:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东嘉佳卡通
+http://192.168.3.1:8888/rtp/239.77.0.12:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东综艺(4k)
+http://192.168.3.1:8888/rtp/239.77.0.13:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东综艺 宽色域(4k)
+http://192.168.3.1:8888/rtp/239.77.0.14:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东综艺(4k)
+http://192.168.3.1:8888/rtp/239.77.0.15:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",南方购物-精选
+http://192.168.3.1:8888/rtp/239.77.0.16:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东综艺 宽色域AVS2(4k)
+http://192.168.3.1:8888/rtp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",珠江电影
+http://192.168.3.1:8888/rtp/239.77.1.18:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",南方购物
+http://192.168.3.1:8888/rtp/239.77.0.19:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",岭南戏曲
+http://192.168.3.1:8888/rtp/239.77.0.20:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",房产频道
+http://192.168.3.1:8888/rtp/239.77.0.21:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",现代教育
+http://192.168.3.1:8888/rtp/239.77.0.22:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",移动频道
+http://192.168.3.1:8888/rtp/239.77.0.23:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",英语辅导
+http://192.168.3.1:8888/rtp/239.77.0.24:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-1综合
+http://192.168.3.1:8888/rtp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-2财经
+http://192.168.3.1:8888/rtp/239.77.0.26:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-3综艺测试
+http://192.168.3.1:8888/rtp/239.0.10.52:5052
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-4中文国际
+http://192.168.3.1:8888/rtp/239.77.0.33:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-5体育测试
+http://192.168.3.1:8888/rtp/239.0.10.53:5053
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-6电影测试
+http://192.168.3.1:8888/rtp/239.0.10.54:5054
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-7国防军事
+http://192.168.3.1:8888/rtp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-8电视剧测试
+http://192.168.3.1:8888/rtp/239.0.10.55:5055
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-9纪录
+http://192.168.3.1:8888/rtp/239.77.0.28:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-10科教
+http://192.168.3.1:8888/rtp/239.77.0.29:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-11戏曲
+http://192.168.3.1:8888/rtp/239.77.0.30:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-12社会与法
+http://192.168.3.1:8888/rtp/239.77.0.31:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-13新闻
+http://192.168.3.1:8888/rtp/239.77.0.32:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-14少儿
+http://192.168.3.1:8888/rtp/239.77.0.33:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-15音乐
+http://192.168.3.1:8888/rtp/239.77.0.34:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-NEWS
+http://192.168.3.1:8888/rtp/239.77.0.35:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-17农业
+http://192.168.3.1:8888/rtp/239.77.0.36:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",湖南卫视
+http://192.168.3.1:8888/rtp/239.77.0.37:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",浙江卫视
+http://192.168.3.1:8888/rtp/239.77.0.38:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",江苏卫视
+http://192.168.3.1:8888/rtp/239.77.0.39:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",东方卫视
+http://192.168.3.1:8888/rtp/239.77.0.40:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",安徽卫视
+http://192.168.3.1:8888/rtp/239.77.0.41:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",北京卫视
+http://192.168.3.1:8888/rtp/239.77.0.42:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",天津卫视
+http://192.168.3.1:8888/rtp/239.77.0.43:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",山东卫视
+http://192.168.3.1:8888/rtp/239.77.0.44:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",江西卫视
+http://192.168.3.1:8888/rtp/239.77.0.45:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",深圳卫视
+http://192.168.3.1:8888/rtp/239.77.0.46:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",湖北卫视
+http://192.168.3.1:8888/rtp/239.77.0.47:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",辽宁卫视
+http://192.168.3.1:8888/rtp/239.77.0.48:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",黑龙江卫视
+http://192.168.3.1:8888/rtp/239.77.0.49:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",贵州卫视
+http://192.168.3.1:8888/rtp/239.77.0.50:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",四川卫视
+http://192.168.3.1:8888/rtp/239.77.0.51:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",河南卫视
+http://192.168.3.1:8888/rtp/239.77.0.52:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",云南卫视
+http://192.168.3.1:8888/rtp/239.77.0.53:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",重庆卫视
+http://192.168.3.1:8888/rtp/239.77.0.54:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",河北卫视
+http://192.168.3.1:8888/rtp/239.77.0.55:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",东南卫视
+http://192.168.3.1:8888/rtp/239.77.0.56:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广西卫视
+http://192.168.3.1:8888/rtp/239.77.0.57:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",吉林卫视
+http://192.168.3.1:8888/rtp/239.77.0.58:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",陕西卫视
+http://192.168.3.1:8888/rtp/239.77.0.59:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",山西卫视
+http://192.168.3.1:8888/rtp/239.77.0.60:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",内蒙古卫视
+http://192.168.3.1:8888/rtp/239.77.0.61:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",青海卫视
+http://192.168.3.1:8888/rtp/239.77.0.62:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",旅游卫视
+http://192.168.3.1:8888/rtp/239.77.0.63:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",宁夏卫视
+http://192.168.3.1:8888/rtp/239.77.0.64:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",西藏卫视
+http://192.168.3.1:8888/rtp/239.77.0.65:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",新疆卫视
+http://192.168.3.1:8888/rtp/239.77.0.66:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",甘肃卫视
+http://192.168.3.1:8888/rtp/239.77.0.67:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",兵团卫视
+http://192.168.3.1:8888/rtp/239.77.0.68:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",卡酷动画
+http://192.168.3.1:8888/rtp/239.77.0.69:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",金鹰卡通
+http://192.168.3.1:8888/rtp/239.77.0.70:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",炫动卡通
+http://192.168.3.1:8888/rtp/239.77.0.71:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV-1
+http://192.168.3.1:8888/rtp/239.77.0.72:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",山东教育
+http://192.168.3.1:8888/rtp/239.77.0.73:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",财富天下
+http://192.168.3.1:8888/rtp/239.77.0.74:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",厦门卫视
+http://192.168.3.1:8888/rtp/239.77.0.75:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",优漫卡通
+http://192.168.3.1:8888/rtp/239.77.0.76:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",三沙卫视
+http://192.168.3.1:8888/rtp/239.77.0.77:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",吉林延边卫视
+http://192.168.3.1:8888/rtp/239.77.0.78:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.79:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东经济科教高清
+http://192.168.3.1:8888/rtp/239.77.0.80:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东体育高清-测试
+http://192.168.3.1:8888/rtp/239.77.0.81:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东珠江高清
+http://192.168.3.1:8888/rtp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-1高清
+http://192.168.3.1:8888/rtp/239.77.0.82:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV5＋体育高清-测试
+http://192.168.3.1:8888/rtp/239.77.0.83:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-2高清测试
+http://192.168.3.1:8888/rtp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-3高清测试
+http://192.168.3.1:8888/rtp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-4高清
+http://192.168.3.1:8888/rtp/239.77.0.86:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-5高清测试
+http://192.168.3.1:8888/rtp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-6高清测试
+http://192.168.3.1:8888/rtp/239.77.0.88:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-7高清测试
+http://192.168.3.1:8888/rtp/239.77.0.89:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-8高清测试
+http://192.168.3.1:8888/rtp/239.77.0.90:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-9高清测试
+http://192.168.3.1:8888/rtp/239.77.0.91:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-10高清测试
+http://192.168.3.1:8888/rtp/239.77.0.92:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-12高清测试
+http://192.168.3.1:8888/rtp/239.77.0.93:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-14高清测试
+http://192.168.3.1:8888/rtp/239.77.0.94:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV5＋高清
+http://192.168.3.1:8888/rtp/239.77.0.95:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-17农业高清
+http://192.168.3.1:8888/rtp/239.77.0.96:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",湖南卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.97:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",浙江卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.98:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",江苏卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.99:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",北京卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.100:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",深圳卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.101:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",黑龙江卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.102:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",湖北卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.103:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",天津卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.104:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",山东卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.105:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",东方卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.106:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",BTV冬奥纪实高清
+http://192.168.3.1:8888/rtp/239.77.0.107:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",辽宁卫视 高清
+http://192.168.3.1:8888/rtp/239.77.0.108:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",四川卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.109:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",金鹰纪实高清测试
+http://192.168.3.1:8888/rtp/239.77.0.110:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",重庆卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.111:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",安徽卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",贵州卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.113:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",中国教育-1高清
+http://192.168.3.1:8888/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",中国交通
+http://192.168.3.1:8888/rtp/239.77.1.249:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",大健康
+http://192.168.3.1:8888/rtp/239.0.11.128:5128
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",福建东南卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.115:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",上海纪实高清
+http://192.168.3.1:8888/rtp/239.77.0.116:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",河北卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.117:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",江西卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.118:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",吉林卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.119:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",熊猫频道
+http://192.168.3.1:8888/rtp/239.77.0.120:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广西卫视高清
+http://192.168.3.1:8888/rtp/239.77.0.121:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.122:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东经济科教超清
+http://192.168.3.1:8888/rtp/239.77.0.123:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东体育超清
+http://192.168.3.1:8888/rtp/239.77.0.124:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东珠江超清
+http://192.168.3.1:8888/rtp/239.77.0.125:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-1超清
+http://192.168.3.1:8888/rtp/239.77.0.126:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-3超清测试
+http://192.168.3.1:8888/rtp/239.77.0.127:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-5超清测试
+http://192.168.3.1:8888/rtp/239.77.0.128:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-6超清测试
+http://192.168.3.1:8888/rtp/239.77.0.129:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-8超清测试
+http://192.168.3.1:8888/rtp/239.77.0.130:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",湖南卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.131:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",浙江卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.132:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",江苏卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.133:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",深圳卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.134:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",黑龙江卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.135:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",湖北卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.136:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",天津卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.137:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",山东卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.138:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",BTV冬奥纪实超清
+http://192.168.3.1:8888/rtp/239.77.0.139:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",辽宁卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.140:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",金鹰纪实超清测试
+http://192.168.3.1:8888/rtp/239.77.0.141:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",四川卫视超清
+http://192.168.3.1:8888/rtp/239.77.0.142:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV谍战剧场
+http://192.168.3.1:8888/rtp/239.77.0.143:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV相声小品
+http://192.168.3.1:8888/rtp/239.77.0.144:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV野外
+http://192.168.3.1:8888/rtp/239.77.0.145:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV法治
+http://192.168.3.1:8888/rtp/239.77.0.146:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV6＋
+http://192.168.3.1:8888/rtp/239.77.0.147:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",经典电影
+http://192.168.3.1:8888/rtp/239.77.0.148:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV8＋
+http://192.168.3.1:8888/rtp/239.77.0.149:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",热播剧场
+http://192.168.3.1:8888/rtp/239.77.0.150:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV3＋
+http://192.168.3.1:8888/rtp/239.77.0.151:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",IPTV5＋
+http://192.168.3.1:8888/rtp/239.77.0.152:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",少儿动画
+http://192.168.3.1:8888/rtp/239.77.0.153:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",魅力时尚
+http://192.168.3.1:8888/rtp/239.77.0.154:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",收视指南
+http://192.168.3.1:8888/rtp/239.77.0.155:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",极k影视-测试
+http://192.168.3.1:8888/rtp/239.253.43.218:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",爱上4K
+http://192.168.3.1:8888/rtp/239.253.43.219:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",粤TV-粤荟萃
+http://192.168.3.1:8888/rtp/239.77.1.188:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",极K纪录-测试
+http://192.168.3.1:8888/rtp/239.77.0.156:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选4k频道1
+http://192.168.3.1:8888/rtp/239.77.0.157:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选4k频道2
+http://192.168.3.1:8888/rtp/239.77.0.158:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",4k测试频道8
+http://192.168.3.1:8888/rtp/239.77.0.159:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选4k频道3
+http://192.168.3.1:8888/rtp/239.77.0.160:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",足球
+http://192.168.3.1:8888/rtp/239.77.1.235:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",第一剧场
+http://192.168.3.1:8888/rtp/239.77.0.161:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",风云足球
+http://192.168.3.1:8888/rtp/239.77.0.162:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",世界地理
+http://192.168.3.1:8888/rtp/239.77.0.163:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",风云音乐
+http://192.168.3.1:8888/rtp/239.77.0.164:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",风云剧场
+http://192.168.3.1:8888/rtp/239.77.0.165:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",怀旧剧场
+http://192.168.3.1:8888/rtp/239.77.0.166:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",央视精品
+http://192.168.3.1:8888/rtp/239.77.0.167:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",兵器科技
+http://192.168.3.1:8888/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",汽摩
+http://192.168.3.1:8888/rtp/239.77.0.169:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",梨园
+http://192.168.3.1:8888/rtp/239.77.0.170:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",DV生活
+http://192.168.3.1:8888/rtp/239.77.0.171:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",靓妆
+http://192.168.3.1:8888/rtp/239.77.0.172:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",早期教育
+http://192.168.3.1:8888/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",彩民在线
+http://192.168.3.1:8888/rtp/239.77.0.174:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",摄影频道
+http://192.168.3.1:8888/rtp/239.77.0.175:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",武术世界
+http://192.168.3.1:8888/rtp/239.77.0.176:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",卫生健康
+http://192.168.3.1:8888/rtp/239.77.0.177:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",女性时尚
+http://192.168.3.1:8888/rtp/239.77.0.178:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",现代女性
+http://192.168.3.1:8888/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",老故事
+http://192.168.3.1:8888/rtp/239.77.0.180:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",高尔夫网球
+http://192.168.3.1:8888/rtp/239.77.0.181:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",中学生
+http://192.168.3.1:8888/rtp/239.77.0.182:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",环球奇观
+http://192.168.3.1:8888/rtp/239.77.0.183:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV新科动漫
+http://192.168.3.1:8888/rtp/239.77.0.184:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",国学
+http://192.168.3.1:8888/rtp/239.77.0.185:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",文物宝库
+http://192.168.3.1:8888/rtp/239.77.0.186:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",电视指南
+http://192.168.3.1:8888/rtp/239.77.0.187:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",PPTV-1
+http://192.168.3.1:8888/rtp/239.77.1.183:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",PPTV-2
+http://192.168.3.1:8888/rtp/239.77.1.184:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",PPTV-3
+http://192.168.3.1:8888/rtp/239.77.1.185:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",PPTV-4
+http://192.168.3.1:8888/rtp/239.77.1.186:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道2
+http://192.168.3.1:8888/rtp/239.77.0.188:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",九频同播频道
+http://192.168.3.1:8888/rtp/239.0.10.115:5115
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道1
+http://192.168.3.1:8888/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道3
+http://192.168.3.1:8888/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道4
+http://192.168.3.1:8888/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道5
+http://192.168.3.1:8888/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道6
+http://192.168.3.1:8888/rtp/239.77.0.190:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道7
+http://192.168.3.1:8888/rtp/239.77.0.191:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道8
+http://192.168.3.1:8888/rtp/239.77.0.192:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道9
+http://192.168.3.1:8888/rtp/239.77.0.193:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道10
+http://192.168.3.1:8888/rtp/239.77.0.194:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道11
+http://192.168.3.1:8888/rtp/239.77.0.195:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道12
+http://192.168.3.1:8888/rtp/239.77.0.196:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道13
+http://192.168.3.1:8888/rtp/239.77.0.197:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道14
+http://192.168.3.1:8888/rtp/239.77.0.198:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道15
+http://192.168.3.1:8888/rtp/239.77.0.199:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道16
+http://192.168.3.1:8888/rtp/239.77.0.200:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道17
+http://192.168.3.1:8888/rtp/239.77.0.201:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道18
+http://192.168.3.1:8888/rtp/239.77.0.202:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道19
+http://192.168.3.1:8888/rtp/239.77.0.203:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频20
+http://192.168.3.1:8888/rtp/239.77.0.204:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道21
+http://192.168.3.1:8888/rtp/239.77.0.205:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道22
+http://192.168.3.1:8888/rtp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道23
+http://192.168.3.1:8888/rtp/239.77.0.207:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道24
+http://192.168.3.1:8888/rtp/239.77.0.208:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道25
+http://192.168.3.1:8888/rtp/239.77.0.209:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道26
+http://192.168.3.1:8888/rtp/239.77.0.210:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道27
+http://192.168.3.1:8888/rtp/239.77.0.211:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道28
+http://192.168.3.1:8888/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道29
+http://192.168.3.1:8888/rtp/239.77.0.213:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道30
+http://192.168.3.1:8888/rtp/239.77.0.214:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道31
+http://192.168.3.1:8888/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道32
+http://192.168.3.1:8888/rtp/239.77.0.216:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道33
+http://192.168.3.1:8888/rtp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道34
+http://192.168.3.1:8888/rtp/239.77.0.218:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道35
+http://192.168.3.1:8888/rtp/239.77.0.219:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道36
+http://192.168.3.1:8888/rtp/239.77.0.220:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道37
+http://192.168.3.1:8888/rtp/239.77.0.221:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道38
+http://192.168.3.1:8888/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道39
+http://192.168.3.1:8888/rtp/239.77.0.223:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道40
+http://192.168.3.1:8888/rtp/239.77.0.224:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道41
+http://192.168.3.1:8888/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道42
+http://192.168.3.1:8888/rtp/239.77.0.226:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道43
+http://192.168.3.1:8888/rtp/239.77.0.227:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道44
+http://192.168.3.1:8888/rtp/239.77.0.228:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道45
+http://192.168.3.1:8888/rtp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道46
+http://192.168.3.1:8888/rtp/239.77.0.230:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道47
+http://192.168.3.1:8888/rtp/239.77.0.231:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道48
+http://192.168.3.1:8888/rtp/239.77.0.232:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道49
+http://192.168.3.1:8888/rtp/239.77.0.233:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道50
+http://192.168.3.1:8888/rtp/239.77.0.234:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道51
+http://192.168.3.1:8888/rtp/239.77.0.235:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道52
+http://192.168.3.1:8888/rtp/239.77.0.236:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道53
+http://192.168.3.1:8888/rtp/239.77.0.237:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道54
+http://192.168.3.1:8888/rtp/239.77.0.238:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道55
+http://192.168.3.1:8888/rtp/239.77.0.239:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道56
+http://192.168.3.1:8888/rtp/239.77.0.240:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道57
+http://192.168.3.1:8888/rtp/239.77.0.241:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道58
+http://192.168.3.1:8888/rtp/239.77.0.242:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道59
+http://192.168.3.1:8888/rtp/239.77.0.243:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道60
+http://192.168.3.1:8888/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道61
+http://192.168.3.1:8888/rtp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道62
+http://192.168.3.1:8888/rtp/239.77.0.246:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道63
+http://192.168.3.1:8888/rtp/239.77.0.247:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道64
+http://192.168.3.1:8888/rtp/239.77.0.248:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道65
+http://192.168.3.1:8888/rtp/239.77.0.249:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道66
+http://192.168.3.1:8888/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道67
+http://192.168.3.1:8888/rtp/239.77.0.251:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道68
+http://192.168.3.1:8888/rtp/239.77.0.252:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道69
+http://192.168.3.1:8888/rtp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道70
+http://192.168.3.1:8888/rtp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道71
+http://192.168.3.1:8888/rtp/239.77.0.255:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道72
+http://192.168.3.1:8888/rtp/239.77.0.256:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道73
+http://192.168.3.1:8888/rtp/239.77.0.257:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道74
+http://192.168.3.1:8888/rtp/239.77.0.258:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道75
+http://192.168.3.1:8888/rtp/239.77.0.259:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道76
+http://192.168.3.1:8888/rtp/239.77.0.260:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道77
+http://192.168.3.1:8888/rtp/239.77.1.1:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道78
+http://192.168.3.1:8888/rtp/239.77.1.2:5146
+#EXTINF::-1,精选频道79
+http://192.168.3.1:8888/rtp/239.77.1.3:5146
+#EXTINF::-1,精选频道80
+http://192.168.3.1:8888/rtp/239.77.1.4:5146
+#EXTINF::-1,精选频道81
+http://192.168.3.1:8888/rtp/239.77.1.5:5146
+#EXTINF::-1,精选频道82
+http://192.168.3.1:8888/rtp/239.77.1.6:5146
+#EXTINF::-1,精选频道83
+http://192.168.3.1:8888/rtp/239.77.1.7:5146
+#EXTINF::-1,精选频道84
+http://192.168.3.1:8888/rtp/239.77.1.8:5146
+#EXTINF::-1,精选频道85
+http://192.168.3.1:8888/rtp/239.77.1.9:5146
+#EXTINF::-1,精选频道86
+http://192.168.3.1:8888/rtp/239.77.1.10:5146
+#EXTINF::-1,精选频道87
+http://192.168.3.1:8888/rtp/239.77.1.11:5146
+#EXTINF::-1,精选频道88
+http://192.168.3.1:8888/rtp/239.77.1.12:5146
+#EXTINF::-1,精选频道89
+http://192.168.3.1:8888/rtp/239.77.1.13:5146
+#EXTINF::-1,精选频道90
+http://192.168.3.1:8888/rtp/239.77.1.14:5146
+#EXTINF::-1,精选频道91
+http://192.168.3.1:8888/rtp/239.77.1.15:5146
+#EXTINF::-1,精选频道92
+http://192.168.3.1:8888/rtp/239.77.1.16:5146
+#EXTINF::-1,精选频道93
+http://192.168.3.1:8888/rtp/239.77.1.17:5146
+#EXTINF::-1,精选频道94
+http://192.168.3.1:8888/rtp/239.77.1.19:5146
+#EXTINF::-1,精选频道95
+http://192.168.3.1:8888/rtp/239.77.1.20:5146
+#EXTINF::-1,精选频道96
+http://192.168.3.1:8888/rtp/239.77.1.21:5146
+#EXTINF::-1,精选频道97
+http://192.168.3.1:8888/rtp/239.77.1.22:5146
+#EXTINF::-1,精选频道98
+http://192.168.3.1:8888/rtp/239.77.1.23:5146
+#EXTINF::-1,精选频道99
+http://192.168.3.1:8888/rtp/239.77.1.24:5146
+#EXTINF::-1,精选频道100
+http://192.168.3.1:8888/rtp/239.77.1.25:5146
+#EXTINF::-1,精选频道101
+http://192.168.3.1:8888/rtp/239.77.1.26:5146
+#EXTINF::-1,精选频道102
+http://192.168.3.1:8888/rtp/239.77.1.27:5146
+#EXTINF::-1,精选频道103
+http://192.168.3.1:8888/rtp/239.77.1.28:5146
+#EXTINF::-1,精选频道104
+http://192.168.3.1:8888/rtp/239.77.1.29:5146
+#EXTINF::-1,精选频道105
+http://192.168.3.1:8888/rtp/239.77.1.30:5146
+#EXTINF::-1,精选频道106
+http://192.168.3.1:8888/rtp/239.77.1.31:5146
+#EXTINF::-1,精选频道107
+http://192.168.3.1:8888/rtp/239.77.1.32:5146
+#EXTINF::-1,精选频道108
+http://192.168.3.1:8888/rtp/239.77.1.33:5146
+#EXTINF::-1,精选频道109
+http://192.168.3.1:8888/rtp/239.77.1.34:5146
+#EXTINF::-1,精选频道110
+http://192.168.3.1:8888/rtp/239.77.1.35:5146
+#EXTINF::-1,精选频道111
+http://192.168.3.1:8888/rtp/239.77.1.36:5146
+#EXTINF::-1,精选频道112
+http://192.168.3.1:8888/rtp/239.77.1.37:5146
+#EXTINF::-1,精选频道113
+http://192.168.3.1:8888/rtp/239.77.1.38:5146
+#EXTINF::-1,精选频道114
+http://192.168.3.1:8888/rtp/239.77.1.39:5146
+#EXTINF::-1,精选频道115
+http://192.168.3.1:8888/rtp/239.77.1.40:5146
+#EXTINF::-1,精选频道116
+http://192.168.3.1:8888/rtp/239.77.1.41:5146
+#EXTINF::-1,精选频道117
+http://192.168.3.1:8888/rtp/239.77.1.42:5146
+#EXTINF::-1,精选频道118
+http://192.168.3.1:8888/rtp/239.77.1.43:5146
+#EXTINF::-1,精选频道119
+http://192.168.3.1:8888/rtp/239.77.1.44:5146
+#EXTINF::-1,精选频道120
+http://192.168.3.1:8888/rtp/239.77.1.45:5146
+#EXTINF::-1,精选频道121
+http://192.168.3.1:8888/rtp/239.77.1.46:5146
+#EXTINF::-1,精选频道122
+http://192.168.3.1:8888/rtp/239.77.1.47:5146
+#EXTINF::-1,精选频道123
+http://192.168.3.1:8888/rtp/239.77.1.48:5146
+#EXTINF::-1,精选频道124
+http://192.168.3.1:8888/rtp/239.77.1.49:5146
+#EXTINF::-1,精选频道125
+http://192.168.3.1:8888/rtp/239.77.1.50:5146
+#EXTINF::-1,精选频道126
+http://192.168.3.1:8888/rtp/239.77.1.51:5146
+#EXTINF::-1,精选频道127
+http://192.168.3.1:8888/rtp/239.77.1.52:5146
+#EXTINF::-1,精选频道128
+http://192.168.3.1:8888/rtp/239.77.1.53:5146
+#EXTINF::-1,精选频道129
+http://192.168.3.1:8888/rtp/239.77.1.54:5146
+#EXTINF::-1,精选频道130
+http://192.168.3.1:8888/rtp/239.77.1.55:5146
+#EXTINF::-1,精选频道131
+http://192.168.3.1:8888/rtp/239.77.1.56:5146
+#EXTINF::-1,精选频道132
+http://192.168.3.1:8888/rtp/239.77.1.57:5146
+#EXTINF::-1,精选频道133
+http://192.168.3.1:8888/rtp/239.77.1.58:5146
+#EXTINF::-1,精选频道134
+http://192.168.3.1:8888/rtp/239.77.1.59:5146
+#EXTINF::-1,精选频道135
+http://192.168.3.1:8888/rtp/239.77.1.60:5146
+#EXTINF::-1,精选频道136
+http://192.168.3.1:8888/rtp/239.77.1.61:5146
+#EXTINF::-1,精选频道137
+http://192.168.3.1:8888/rtp/239.77.1.62:5146
+#EXTINF::-1,精选频道138
+http://192.168.3.1:8888/rtp/239.77.1.63:5146
+#EXTINF::-1,精选频道139
+http://192.168.3.1:8888/rtp/239.77.1.64:5146
+#EXTINF::-1,精选频道140
+http://192.168.3.1:8888/rtp/239.77.1.65:5146
+#EXTINF::-1,精选频道141
+http://192.168.3.1:8888/rtp/239.77.1.66:5146
+#EXTINF::-1,精选频道142
+http://192.168.3.1:8888/rtp/239.77.1.67:5146
+#EXTINF::-1,精选频道143
+http://192.168.3.1:8888/rtp/239.77.1.68:5146
+#EXTINF::-1,精选频道144
+http://192.168.3.1:8888/rtp/239.77.1.69:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道145
+http://192.168.3.1:8888/rtp/239.77.1.70:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道146
+http://192.168.3.1:8888/rtp/239.77.1.71:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道147
+http://192.168.3.1:8888/rtp/239.77.1.72:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道148
+http://192.168.3.1:8888/rtp/239.77.1.73:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道149
+http://192.168.3.1:8888/rtp/239.77.1.74:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道150
+http://192.168.3.1:8888/rtp/239.77.1.75:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道151
+http://192.168.3.1:8888/rtp/239.77.1.76:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道152
+http://192.168.3.1:8888/rtp/239.77.1.77:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道153
+http://192.168.3.1:8888/rtp/239.77.1.78:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道154
+http://192.168.3.1:8888/rtp/239.77.1.79:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道155
+http://192.168.3.1:8888/rtp/239.77.1.80:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道156
+http://192.168.3.1:8888/rtp/239.77.1.81:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道157
+http://192.168.3.1:8888/rtp/239.77.1.82:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道158
+http://192.168.3.1:8888/rtp/239.77.1.83:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道159
+http://192.168.3.1:8888/rtp/239.77.1.84:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道160
+http://192.168.3.1:8888/rtp/239.77.1.85:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道161
+http://192.168.3.1:8888/rtp/239.77.1.86:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道162
+http://192.168.3.1:8888/rtp/239.77.1.87:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道163
+http://192.168.3.1:8888/rtp/239.77.1.88:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道164
+http://192.168.3.1:8888/rtp/239.77.1.89:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道165
+http://192.168.3.1:8888/rtp/239.77.1.90:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道166
+http://192.168.3.1:8888/rtp/239.77.1.91:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道167
+http://192.168.3.1:8888/rtp/239.77.1.92:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道168
+http://192.168.3.1:8888/rtp/239.77.1.93:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道169
+http://192.168.3.1:8888/rtp/239.77.1.94:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道170
+http://192.168.3.1:8888/rtp/239.77.1.95:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道171
+http://192.168.3.1:8888/rtp/239.77.1.96:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道172
+http://192.168.3.1:8888/rtp/239.77.1.97:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道173
+http://192.168.3.1:8888/rtp/239.77.1.98:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道174
+http://192.168.3.1:8888/rtp/239.77.1.99:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道175
+http://192.168.3.1:8888/rtp/239.77.1.100:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道176
+http://192.168.3.1:8888/rtp/239.77.1.101:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道177
+http://192.168.3.1:8888/rtp/239.77.1.102:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道178
+http://192.168.3.1:8888/rtp/239.77.1.103:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道179
+http://192.168.3.1:8888/rtp/239.77.1.104:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道180
+http://192.168.3.1:8888/rtp/239.77.1.105:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道181
+http://192.168.3.1:8888/rtp/239.77.1.106:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道182
+http://192.168.3.1:8888/rtp/239.77.1.107:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道183
+http://192.168.3.1:8888/rtp/239.77.1.108:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道184
+http://192.168.3.1:8888/rtp/239.77.1.109:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道185
+http://192.168.3.1:8888/rtp/239.77.1.110:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道186
+http://192.168.3.1:8888/rtp/239.77.1.111:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道187
+http://192.168.3.1:8888/rtp/239.77.1.112:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道188
+http://192.168.3.1:8888/rtp/239.77.1.113:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道189
+http://192.168.3.1:8888/rtp/239.77.1.114:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道190
+http://192.168.3.1:8888/rtp/239.77.1.115:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道191
+http://192.168.3.1:8888/rtp/239.77.1.116:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道192
+http://192.168.3.1:8888/rtp/239.77.1.117:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道193
+http://192.168.3.1:8888/rtp/239.77.1.118:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道194
+http://192.168.3.1:8888/rtp/239.77.1.119:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道195
+http://192.168.3.1:8888/rtp/239.77.1.120:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道196
+http://192.168.3.1:8888/rtp/239.77.1.121:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道197
+http://192.168.3.1:8888/rtp/239.77.1.122:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道198
+http://192.168.3.1:8888/rtp/239.77.1.123:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道199
+http://192.168.3.1:8888/rtp/239.77.1.124:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道200
+http://192.168.3.1:8888/rtp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道201
+http://192.168.3.1:8888/rtp/239.77.1.126:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道202
+http://192.168.3.1:8888/rtp/239.77.1.127:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道203
+http://192.168.3.1:8888/rtp/239.77.1.128:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道204
+http://192.168.3.1:8888/rtp/239.77.1.129:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道205
+http://192.168.3.1:8888/rtp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道206
+http://192.168.3.1:8888/rtp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道207
+http://192.168.3.1:8888/rtp/239.77.1.132:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道208
+http://192.168.3.1:8888/rtp/239.77.1.133:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道209
+http://192.168.3.1:8888/rtp/239.77.1.134:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道210
+http://192.168.3.1:8888/rtp/239.77.1.135:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道211
+http://192.168.3.1:8888/rtp/239.77.1.136:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道212
+http://192.168.3.1:8888/rtp/239.77.1.137:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道213
+http://192.168.3.1:8888/rtp/239.77.1.138:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道214
+http://192.168.3.1:8888/rtp/239.77.1.139:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道215
+http://192.168.3.1:8888/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道216
+http://192.168.3.1:8888/rtp/239.77.1.141:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道217
+http://192.168.3.1:8888/rtp/239.77.1.142:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道218
+http://192.168.3.1:8888/rtp/239.77.1.143:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道219
+http://192.168.3.1:8888/rtp/239.77.1.144:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道220
+http://192.168.3.1:8888/rtp/239.77.1.145:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道221
+http://192.168.3.1:8888/rtp/239.77.1.146:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道222
+http://192.168.3.1:8888/rtp/239.77.1.147:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道223
+http://192.168.3.1:8888/rtp/239.77.1.148:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道224
+http://192.168.3.1:8888/rtp/239.77.1.149:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道225
+http://192.168.3.1:8888/rtp/239.77.1.150:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道226
+http://192.168.3.1:8888/rtp/239.77.1.151:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道227
+http://192.168.3.1:8888/rtp/239.77.1.152:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道228
+http://192.168.3.1:8888/rtp/239.77.1.153:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道229
+http://192.168.3.1:8888/rtp/239.77.1.154:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道230
+http://192.168.3.1:8888/rtp/239.77.1.155:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道231
+http://192.168.3.1:8888/rtp/239.77.1.156:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道232
+http://192.168.3.1:8888/rtp/239.77.1.157:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道233
+http://192.168.3.1:8888/rtp/239.77.1.158:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道234
+http://192.168.3.1:8888/rtp/239.77.1.159:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道235
+http://192.168.3.1:8888/rtp/239.77.1.160:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道236
+http://192.168.3.1:8888/rtp/239.77.1.161:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道237
+http://192.168.3.1:8888/rtp/239.77.1.162:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道238
+http://192.168.3.1:8888/rtp/239.77.1.163:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道239
+http://192.168.3.1:8888/rtp/239.77.1.164:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道240
+http://192.168.3.1:8888/rtp/239.77.1.165:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道241
+http://192.168.3.1:8888/rtp/239.77.1.166:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道242
+http://192.168.3.1:8888/rtp/239.77.1.167:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道243
+http://192.168.3.1:8888/rtp/239.77.1.168:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道244
+http://192.168.3.1:8888/rtp/239.77.1.169:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道245
+http://192.168.3.1:8888/rtp/239.77.1.170:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道246
+http://192.168.3.1:8888/rtp/239.77.1.171:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道247
+http://192.168.3.1:8888/rtp/239.77.1.172:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道248
+http://192.168.3.1:8888/rtp/239.77.1.173:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道249
+http://192.168.3.1:8888/rtp/239.77.1.174:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道250
+http://192.168.3.1:8888/rtp/239.77.1.175:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道251
+http://192.168.3.1:8888/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道252
+http://192.168.3.1:8888/rtp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道253
+http://192.168.3.1:8888/rtp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道254
+http://192.168.3.1:8888/rtp/239.77.1.179:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道255
+http://192.168.3.1:8888/rtp/239.77.1.180:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道256
+http://192.168.3.1:8888/rtp/239.77.1.181:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道257
+http://192.168.3.1:8888/rtp/239.77.1.182:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道258
+http://192.168.3.1:8888/rtp/239.77.1.183:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道259
+http://192.168.3.1:8888/rtp/239.77.1.184:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道260
+http://192.168.3.1:8888/rtp/239.77.1.185:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道261
+http://192.168.3.1:8888/rtp/239.77.1.186:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道262
+http://192.168.3.1:8888/rtp/239.77.1.187:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道263
+http://192.168.3.1:8888/rtp/239.77.1.188:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道264
+http://192.168.3.1:8888/rtp/239.77.1.189:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道265
+http://192.168.3.1:8888/rtp/239.77.1.190:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道266
+http://192.168.3.1:8888/rtp/239.77.1.191:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道267
+http://192.168.3.1:8888/rtp/239.77.1.192:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频268
+http://192.168.3.1:8888/rtp/239.77.1.193:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道269
+http://192.168.3.1:8888/rtp/239.77.1.194:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道270
+http://192.168.3.1:8888/rtp/239.77.1.195:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道271
+http://192.168.3.1:8888/rtp/239.77.1.196:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道272
+http://192.168.3.1:8888/rtp/239.77.1.197:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道273
+http://192.168.3.1:8888/rtp/239.77.1.198:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道274
+http://192.168.3.1:8888/rtp/239.77.1.199:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道275
+http://192.168.3.1:8888/rtp/239.77.1.200:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道276
+http://192.168.3.1:8888/rtp/239.77.1.201:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道277
+http://192.168.3.1:8888/rtp/239.77.1.202:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道278
+http://192.168.3.1:8888/rtp/239.77.1.203:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道279
+http://192.168.3.1:8888/rtp/239.77.1.204:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道280
+http://192.168.3.1:8888/rtp/239.77.1.205:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道281
+http://192.168.3.1:8888/rtp/239.77.1.206:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道282
+http://192.168.3.1:8888/rtp/239.77.1.207:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道283
+http://192.168.3.1:8888/rtp/239.77.1.208:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道284
+http://192.168.3.1:8888/rtp/239.77.1.209:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道285
+http://192.168.3.1:8888/rtp/239.77.1.210:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道286
+http://192.168.3.1:8888/rtp/239.77.1.211:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道287
+http://192.168.3.1:8888/rtp/239.77.1.212:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道288
+http://192.168.3.1:8888/rtp/239.77.1.213:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道289
+http://192.168.3.1:8888/rtp/239.77.1.214:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道290
+http://192.168.3.1:8888/rtp/239.77.1.215:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道291
+http://192.168.3.1:8888/rtp/239.77.1.216:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道292
+http://192.168.3.1:8888/rtp/239.77.1.217:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道293
+http://192.168.3.1:8888/rtp/239.77.1.218:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道294
+http://192.168.3.1:8888/rtp/239.77.1.219:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道295
+http://192.168.3.1:8888/rtp/239.77.1.220:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道296
+http://192.168.3.1:8888/rtp/239.77.1.221:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道297
+http://192.168.3.1:8888/rtp/239.77.1.222:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道298
+http://192.168.3.1:8888/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道299
+http://192.168.3.1:8888/rtp/239.77.1.224:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道300
+http://192.168.3.1:8888/rtp/239.77.1.225:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道301
+http://192.168.3.1:8888/rtp/239.77.1.226:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道302
+http://192.168.3.1:8888/rtp/239.77.1.227:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道303
+http://192.168.3.1:8888/rtp/239.77.1.228:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道304
+http://192.168.3.1:8888/rtp/239.77.1.229:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道305
+http://192.168.3.1:8888/rtp/239.77.1.230:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道306
+http://192.168.3.1:8888/rtp/239.77.1.231:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道307
+http://192.168.3.1:8888/rtp/239.77.1.232:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道308
+http://192.168.3.1:8888/rtp/239.77.1.233:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道309
+http://192.168.3.1:8888/rtp/239.77.1.234:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道310
+http://192.168.3.1:8888/rtp/239.77.1.235:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道311
+http://192.168.3.1:8888/rtp/239.77.1.236:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道312
+http://192.168.3.1:8888/rtp/239.77.1.237:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道313
+http://192.168.3.1:8888/rtp/239.77.1.238:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道314
+http://192.168.3.1:8888/rtp/239.77.1.239:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道315
+http://192.168.3.1:8888/rtp/239.77.1.240:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道316
+http://192.168.3.1:8888/rtp/239.77.1.241:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道317
+http://192.168.3.1:8888/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道318
+http://192.168.3.1:8888/rtp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道319
+http://192.168.3.1:8888/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道320
+http://192.168.3.1:8888/rtp/239.77.1.245:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道321
+http://192.168.3.1:8888/rtp/239.77.1.246:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道322
+http://192.168.3.1:8888/rtp/239.77.1.247:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道323
+http://192.168.3.1:8888/rtp/239.77.1.248:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道324
+http://192.168.3.1:8888/rtp/239.77.1.249:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道325
+http://192.168.3.1:8888/rtp/239.77.1.250:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道326
+http://192.168.3.1:8888/rtp/239.77.1.251:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道327
+http://192.168.3.1:8888/rtp/239.77.1.252:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道328
+http://192.168.3.1:8888/rtp/239.77.1.253:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道329
+http://192.168.3.1:8888/rtp/239.77.1.254:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道330
+http://192.168.3.1:8888/rtp/239.77.1.255:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道331
+http://192.168.3.1:8888/rtp/239.77.1.256:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道332
+http://192.168.3.1:8888/rtp/239.77.1.257:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道333
+http://192.168.3.1:8888/rtp/239.77.1.258:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道334
+http://192.168.3.1:8888/rtp/239.77.1.259:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",精选频道335
+http://192.168.3.1:8888/rtp/239.77.1.260:5146
