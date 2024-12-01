@@ -228,9 +228,9 @@ http://192.168.3.1:8888/rtp/239.77.0.228:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC影迷电影
 http://192.168.3.1:8888/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC动作电影
-http://118.81.31.174:8084/rtp/226.0.2.94:8012
+http://118.81.49.155:8085/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC家庭影院
-http://118.81.31.174:8084/rtp/226.0.2.240:9820
+http://113.205.218.126:8002/udp/225.0.4.171:7980
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV2
 http://192.168.3.1:8888/rtp/239.77.0.28:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV早期教育
