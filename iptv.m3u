@@ -5,10 +5,16 @@ http://192.168.3.1:8888/rtp/239.77.0.206:5146
 http://192.168.3.1:8888/rtp/239.77.0.207:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台
 p3p://108.181.32.169:58940/6533f6560002787f2d01338b57197695
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台(b)
-p3p://108.181.32.169:58940/6533f5c20003762b2cfef1ac322c6404
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台MY
-p3p://108.181.32.169:58940/6533f6f8000f2ebd2d03af9d53e46544
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东民生
 http://192.168.3.1:8888/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东珠江
