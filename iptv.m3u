@@ -119,6 +119,10 @@ http://192.168.3.1:8888/rtp/239.253.43.123:5146
 http://192.168.3.1:8888/rtp/239.253.43.124:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",河源综合
 http://192.168.3.1:8888/rtp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",清远新闻综合
+http://192.168.3.1:8888/rtp/239.253.43.33:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",清远文旅生活
+http://192.168.3.1:8888/rtp/239.253.43.34:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV5＋体育
 http://192.168.3.1:8888/rtp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CCTV-1
@@ -221,25 +225,27 @@ http://192.168.3.1:8888/rtp/239.77.0.17:5146
 http://192.168.3.1:8888/rtp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",南国都市
 http://192.168.3.1:8888/rtp/239.77.0.232:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN
-http://192.168.3.1:8888/rtp/239.77.0.199:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN2
-http://192.168.3.1:8888/rtp/239.77.0.228:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC影迷电影
 http://192.168.3.1:8888/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC动作电影
 http://60.223.72.108:8005/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CHC家庭电影
 http://60.223.72.108:8005/rtp/226.0.2.240:9820
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV1
+http://171.120.110.55:8085/rtp/226.0.2.68:8456
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV2
 http://192.168.3.1:8888/rtp/239.77.0.28:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV早期教育
 http://192.168.3.1:8888/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CETV4
 http://192.168.3.1:8888/rtp/239.77.1.200:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN3
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN英语
+http://192.168.3.1:8888/rtp/239.77.0.199:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN法语
+http://192.168.3.1:8888/rtp/239.77.0.228:5146
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN阿语
 http://192.168.3.1:8888/rtp/239.253.43.200:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN4
+#EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN俄语
 http://192.168.3.1:8888/rtp/239.253.43.201:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",陕西卫视
 http://43.138.11.122/cq/yh.php?id=G_SHANXI-HQ
@@ -381,10 +387,6 @@ http://192.168.3.1:8888/rtp/239.77.1.87:5146
 http://192.168.3.1:8888/rtp/239.77.1.232:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",杭州2
 http://192.168.3.1:8888/rtp/239.77.1.233:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",未知新闻
-http://192.168.3.1:8888/rtp/239.253.43.33:5146
-#EXTINF:-1 tvg-id="1" group-title="电信IPTV",未知文旅生活
-http://192.168.3.1:8888/rtp/239.253.43.34:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",海南卫视
 http://192.168.3.1:8888/rtp/239.253.43.35:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",云南卫视
