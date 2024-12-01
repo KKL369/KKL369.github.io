@@ -3,6 +3,9 @@
 http://192.168.3.1:8888/rtp/239.77.0.206:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",茂名文化生活
 http://192.168.3.1:8888/rtp/239.77.0.207:5146
+TVB翡翠台,p3p://108.181.32.169:58940/6533f6560002787f2d01338b57197695
+TVB翡翠台(b),p3p://108.181.32.169:58940/6533f5c20003762b2cfef1ac322c6404
+TVB翡翠台MY,p3p://108.181.32.169:58940/6533f6f8000f2ebd2d03af9d53e46544
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东民生
 http://192.168.3.1:8888/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",广东珠江
@@ -214,7 +217,7 @@ http://192.168.3.1:8888/rtp/239.253.43.200:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",CGTN4
 http://192.168.3.1:8888/rtp/239.253.43.201:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",陕西卫视
-http://192.168.3.1:8888/udp/239.77.0.69:5146
+http://43.138.11.122/cq/yh.php?id=G_SHANXI-HQ
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",山西卫视
 http://192.168.3.1:8888/udp/239.77.0.68:5146
 #EXTINF:-1 tvg-id="1" group-title="电信IPTV",内蒙古卫视
